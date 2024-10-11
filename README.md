@@ -1,12 +1,13 @@
 Hi 👋 My name is Suman Das
 ==========================
-
-I'm a third-year civil engineering student who's into both real-world structures and virtual tech fun. By day, I'm dealing with concrete and equations, but by night, I'm a full-stack web developer crafting cool 3D stuff and dabbling in machine learning and AI. I love turning ideas into digital reality, coding websites, and exploring how smart machines can make life cooler. When I'm not in class, you'll find me at hackathons, geeking out on tech trends, and dreaming up a world where civil engineering meets 3D web excitement and smart AI tricks.
+## Crafting digital experiences, one pixel at a time.
 
 * 🌍  I'm based in Assam, India
 * ✉️  You can contact me at [srisumandas66@gmail.com](mailto:srisumandas66@gmail.com)
 * 🧠  I'm learning Reinforcement learning & flutter
 * 🤝  I'm open to collaborating on 3d web projects and computer vision.
+
+
 
 ### Skills
 
