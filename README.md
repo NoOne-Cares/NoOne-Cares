@@ -4,7 +4,7 @@ Hi 👋 My name is Suman Das
 
 * 🌍  I'm based in Assam, India
 * ✉️  You can contact me at [srisumandas66@gmail.com](mailto:srisumandas66@gmail.com)
-* 🧠  I'm learning Defi & Reinforcement learning
+* 🧠  Currently learning **DevOps (Docker, AWS, CI/CD)**
 * 🤝  I'm open to collaboration.
 
 
