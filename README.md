@@ -60,6 +60,7 @@ Scalable FastAPI backend with JWT authentication, async APIs, Redis caching, and
 
 ###  Plane Simulator
 Interactive browser-based 3D plane simulator built with Three.js and real-time controls.
+
 ---
 
 
