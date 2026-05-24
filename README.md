@@ -55,7 +55,7 @@ VS Code extension providing autocomplete snippets for frequently used Svelte dev
 ###  Saffro
 Custom WordPress theme focused on clean layouts, responsiveness, and lightweight performance.
 
-### ⚡ LibraryBackend
+### ibraryBackend
 Scalable FastAPI backend with JWT authentication, async APIs, Redis caching, and Dockerized deployment workflows.
 
 ###  Plane Simulator
