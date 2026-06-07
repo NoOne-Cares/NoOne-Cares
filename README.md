@@ -13,53 +13,24 @@ I enjoy building low-latency backend systems, AI-powered products, and real-time
 ---
 #  Projects
 
-###  ASHA Guru
-AI-powered healthcare training and clinical support platform with multilingual patient simulations, WHO-based triage assistance, and local AI inference workflows.
-
-###  Real-Time RPS Multiplayer
-Real-time multiplayer WebSocket game with Ethereum wallet integration and persistent multiplayer state synchronization.
-
-###  AI Product Advisor
-Mobile AI assistant using Gemini AI for intelligent product recommendations through natural language understanding.
-
-###  EternalSOL
-Decentralized will-making platform on Solana enabling secure digital asset inheritance with delayed execution logic.
-
-###  XORA SaaS Landing Page
-Modern responsive SaaS landing page focused on clean UI, smooth interactions, and conversion-driven design.
-
-###  GDSC NIT Silchar Website
-Contributed to the official GDSC NIT Silchar website showcasing events, projects, and developer community initiatives.
-
-###  Marble Race
-Browser-based 3D physics simulation game built using Three.js with interactive camera controls and animations.
-
-###  Serverless Blogging Platform
-Lightweight serverless blogging platform reducing hosting costs through scalable cloud-native architecture.
-
-###  Engineering Resource Hub
-Centralized academic resource platform for engineering students with semester-wise study material organization.
-
-###  MessageFlow
-Drag-and-drop workflow builder inspired by LangFlow for visual AI and automation pipeline creation.
-
-###  SoliX
-Simple Solana faucet application enabling token distribution and wallet interaction workflows.
-
-###  KabanBoard
-Minimal Kanban-style task management board built using React for productivity and workflow organization.
-
-###  Svelte Snippets
-VS Code extension providing autocomplete snippets for frequently used Svelte development patterns.
-
-###  Saffro
-Custom WordPress theme focused on clean layouts, responsiveness, and lightweight performance.
-
-### LibraryBackend
-Scalable FastAPI backend with JWT authentication, async APIs, Redis caching, and Dockerized deployment workflows.
-
-###  Plane Simulator
-Interactive browser-based 3D plane simulator built with Three.js and real-time controls.
+| Project | Description |
+|----------|-------------|
+| **ASHA Guru** | AI-powered healthcare training and clinical support platform with multilingual patient simulations, WHO-based triage assistance, and local AI inference workflows. |
+| **Real-Time RPS Multiplayer** | Real-time multiplayer WebSocket game with Ethereum wallet integration and persistent multiplayer state synchronization. |
+| **AI Product Advisor** | Mobile AI assistant using Gemini AI for intelligent product recommendations through natural language understanding. |
+| **EternalSOL** | Decentralized will-making platform on Solana enabling secure digital asset inheritance with delayed execution logic. |
+| **XORA SaaS Landing Page** | Modern responsive SaaS landing page focused on clean UI, smooth interactions, and conversion-driven design. |
+| **GDSC NIT Silchar Website** | Contributed to the official GDSC NIT Silchar website showcasing events, projects, and developer community initiatives. |
+| **Marble Race** | Browser-based 3D physics simulation game built using Three.js with interactive camera controls and animations. |
+| **Serverless Blogging Platform** | Lightweight serverless blogging platform reducing hosting costs through scalable cloud-native architecture. |
+| **Engineering Resource Hub** | Centralized academic resource platform for engineering students with semester-wise study material organization. |
+| **MessageFlow** | Drag-and-drop workflow builder inspired by LangFlow for visual AI and automation pipeline creation. |
+| **SoliX** | Simple Solana faucet application enabling token distribution and wallet interaction workflows. |
+| **KabanBoard** | Minimal Kanban-style task management board built using React for productivity and workflow organization. |
+| **Svelte Snippets** | VS Code extension providing autocomplete snippets for frequently used Svelte development patterns. |
+| **Saffro** | Custom WordPress theme focused on clean layouts, responsiveness, and lightweight performance. |
+| **LibraryBackend** | Scalable FastAPI backend with JWT authentication, async APIs, Redis caching, and Dockerized deployment workflows. |
+| **Plane Simulator** | Interactive browser-based 3D plane simulator built with Three.js and real-time controls. |
 
 ---
 
